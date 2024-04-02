@@ -1,59 +1,59 @@
 export const productos = [
   {
     id: 1,
-    nombre: "Harry Potter Barita",
+    nombre: "Harry Potter",
     precio: 150,
-    imagen:"https://cdn11.bigcommerce.com/s-mpz9h6/images/stencil/608x608/products/167705/288363/30613_xl__47118.1687278931.jpg?c=2",
+    imagen:"./img/hp1.png",
     categoria:"Harry Potter"
   },
   {
     id: 2,
-    nombre: "Hermoine Granger",
+    nombre: "Adobe Illustrator",
     precio: 100,
-    imagen:"https://cdn11.bigcommerce.com/s-mpz9h6/images/stencil/608x608/products/168909/289833/30614_xl__30004.1691162215.jpg?c=2",
-    categoria:"Harry Potter"
+    imagen:"./img/ai.png",
+    categoria:"Diseño"
   },
   {
     id: 3,
-    nombre: "Ronaldo",
+    nombre: "Adobe Photoshop",
     precio: 50,
-    imagen:"https://img.kwcdn.com/product/1e19d462c8b/ad877051-ce2f-48c7-b43a-2d79e69c28c6_1000x1000.jpeg?imageView2/2/w/800/q/70/format/webp",
-    categoria:"Fútbol"
+    imagen:"./img/ps.png",
+    categoria:"Diseño"
   },
   {
     id: 4,
-    nombre: "Messi",
+    nombre: "Fat Homer",
     precio: 50,
-    imagen:"https://img.kwcdn.com/product/1e19d462c8b/3b6292b0-9688-4b77-af00-0e58a0e56fb1_1000x1000.jpeg?imageView2/2/w/800/q/70/format/webp",
-    categoria:"Fútbol"
+    imagen:"./img/homer1.png",
+    categoria:"Simpsons"
   },
   {
     id: 5,
-    nombre: "Neymar",
+    nombre: "Hidding Homer",
     precio: 50,
-    imagen:"https://img.kwcdn.com/product/1e19d462c8b/aa7e0e47-e174-4031-9605-29024ccb0a19_1000x1000.jpeg?imageView2/2/w/800/q/70/format/webp",
-    categoria:"Fútbol"
+    imagen:"./img/homer2.png",
+    categoria:"Simpsons"
   },
   {
     id: 6,
-    nombre: "Homero Rosquilla",
+    nombre: "Super Homer",
     precio: 350,
-    imagen:"https://img.fantaskycdn.com/0a6851d922da82d822a4d8f89956ed6c_1080x.jpeg",
+    imagen:"./img/homer3.png",
     categoria:"Simpsons"
   },
   {
     id: 7,
-    nombre: "Bart Tatuaje",
+    nombre: "Maestro Roshi",
     precio: 350,
-    imagen:"https://img.fantaskycdn.com/adc264aa2aa9e47926280a96f340bcb2_1080x.jpeg",
-    categoria:"Simpsons"
+    imagen:"./img/db1.png",
+    categoria:"Dragon Ball Z"
   },
   {
     id: 8,
-    nombre: "Lisa L",
+    nombre: "Cell & Gokú",
     precio: 150,
-    imagen:"https://img.fantaskycdn.com/5142b98bd78118b0b3d85b505638b47e_1080x.jpeg",
-    categoria:"Simpsons"
+    imagen:"./img/db2.png",
+    categoria:"Dragon Ball Z"
   }
 ];
 
